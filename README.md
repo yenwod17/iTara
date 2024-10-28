@@ -9,7 +9,7 @@ A new discord bot coming soon to the discord world.
 
 ![Shields](https://img.shields.io/badge/made_with-javascript-yellow?logo=javascript)
 
-![Sheilds](https://img.shields.io/npm/v/discord.js)
+[![discord.js](https://img.shields.io/npm/v/discord.js)](https://www.npmjs.com/package/discord.js)
 ## Updates - 10/28/2024
 V1.1.0
 Ongoing beta development of Section 2.
