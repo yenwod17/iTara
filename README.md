@@ -6,6 +6,8 @@ A new discord bot coming soon to the discord world.
 ![Shields](https://img.shields.io/badge/itara-pixel_mania-pink)
 
 ![Shields](https://img.shields.io/badge/Discord%20API%20%3C3-7289da)
+
+![Shields](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ## Updates - 10/28/2024
 V1.1.0
 Ongoing beta development of Section 2.
