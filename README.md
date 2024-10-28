@@ -25,4 +25,4 @@ Planned for Public Testing in the coming weeks/months.
 - Link will be provided at later date.
 ### API terms & usage
 - Link will be provided at later date.
-![Designer](https://github.com/user-attachments/assets/d7e0f238-9f5d-480c-9f8f-072424992735)
+![itara_beach4](https://github.com/user-attachments/assets/f0746303-cd53-4cdb-af83-824fc815b420)
