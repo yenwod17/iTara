@@ -16,9 +16,12 @@ Ongoing beta development of Section 2.
 
 Planned for Public Testing in the coming weeks/months.
 
-## Relevant Information
+## Support & Beta Testing
 ### Support Server
-- Link will be provided at later date.
+- Will be provided at a later date.
+##  Beta Information
+- Will be provided at a later date.
+## Terms
 ### Email Inquiries
 - Will be provided at a later date.
 ### Terms of Service
