@@ -19,7 +19,7 @@ Planned for Public Testing in the coming weeks/months.
 ## Support & Beta Testing
 ### Support Server
 - Will be provided at a later date.
-##  Beta Information
+###  Beta Information
 - Will be provided at a later date.
 ## Terms
 ### Email Inquiries
