@@ -27,4 +27,6 @@
 
 ![14](https://github.com/user-attachments/assets/ddfe0abb-c46f-4bb8-bdb8-a9dfc3d0a7c5)
 
+### Be informed with system, commands or other issues
+![2](https://github.com/user-attachments/assets/c715e0a8-cba8-4dc5-8b8c-9c1ed52fb268)
 
