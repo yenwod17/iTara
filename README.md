@@ -12,7 +12,7 @@ A new discord bot coming soon to the discord world.
 [![discord.js](https://img.shields.io/npm/v/discord.js)](https://www.npmjs.com/package/discord.js)
 ## Updates - 10/28/2024
 V1.1.0
-Ongoing beta development of Section 2.
+Ongoing development of Section 2.
 
 Planned for Public Testing in the coming weeks/months.
 
