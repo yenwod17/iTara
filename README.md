@@ -18,7 +18,7 @@ Planned for Public Testing in the coming weeks/months.
 
 ## Support & Beta Testing
 ### Support Server
-- Will be provided at a later date.
+[Click here](https://discord.gg/5MsZY6uSu8)
 ###  Beta Information
 - Will be provided at a later date.
 ## Terms
