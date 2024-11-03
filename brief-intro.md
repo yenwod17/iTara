@@ -14,7 +14,7 @@
 ### Different kinds of utility commands
 ![7](https://github.com/user-attachments/assets/fa060856-de93-4f52-b641-4d7d09e59c5f)
 
-### Customize your server in seconds
+### Customize iTara in seconds
 ![11](https://github.com/user-attachments/assets/550f1764-8e01-40d2-a3ae-0b133f621b92)
 
 ### Add a hint of fictional characters to your server
