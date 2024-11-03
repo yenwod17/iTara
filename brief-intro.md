@@ -12,7 +12,7 @@
 ![4](https://github.com/user-attachments/assets/c4c08dd8-f78d-458b-8486-b1ff32b1e63c)
 
 ### Different kinds of utility commands
-![7](https://github.com/user-attachments/assets/c85a78e7-3569-4e62-b4fd-a793fefc9cf4)
+![7](https://github.com/user-attachments/assets/fa060856-de93-4f52-b641-4d7d09e59c5f)
 
 ### Customize your server in seconds
 ![11](https://github.com/user-attachments/assets/550f1764-8e01-40d2-a3ae-0b133f621b92)
