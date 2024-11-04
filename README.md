@@ -1,7 +1,11 @@
 # iTara
 Ready to have fun with a pixelated beach maniac?
 
-A new discord bot coming soon to the discord world.
+iTara is live to the discord community! Come and take a peek and test around!
+
+![TopGG](https://top.gg/api/widget/628998441992978482.svg)
+
+https://top.gg/bot/628998441992978482
 
 ![Shields](https://img.shields.io/badge/itara-pixel_mania-pink)
 
