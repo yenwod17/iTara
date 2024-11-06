@@ -1,7 +1,7 @@
 # iTara
 Ready to have fun with a pixelated beach maniac?
 
-iTara is live to the discord community! Come and take a peek and test around!
+iTara is live to the discord community! Come and test around!
 
 ![TopGG](https://top.gg/api/widget/628998441992978482.svg)
 
