@@ -1,11 +1,13 @@
 # iTara
 Ready to have fun with a pixelated beach maniac?
 
-iTara is live to the discord community! Come and test around!
+iTara is live to the discord community!
 
 ![TopGG](https://top.gg/api/widget/628998441992978482.svg)
 
-https://top.gg/bot/628998441992978482
+[Invite via Top.gg](https://top.gg/bot/628998441992978482)
+
+[Website](itarax.com)
 
 ![Shields](https://img.shields.io/badge/itara-pixel_mania-pink)
 
@@ -14,11 +16,10 @@ https://top.gg/bot/628998441992978482
 ![Shields](https://img.shields.io/badge/made_with-javascript-yellow?logo=javascript)
 
 [![discord.js](https://img.shields.io/npm/v/discord.js)](https://www.npmjs.com/package/discord.js)
-## Updates - 10/28/2024
+## Updates - 09/11/2024
 V1.1.0
-Ongoing development of Section 2.
 
-Planned for Public Testing in the coming weeks/months.
+Planned maintenance from 09/11/2024 to 09/11/2024 to implement fixes and commands.
 
 ## Support & Beta Testing
 ### Support Server
