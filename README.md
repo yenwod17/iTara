@@ -5,9 +5,9 @@ iTara is live to the discord community!
 
 ![TopGG](https://top.gg/api/widget/628998441992978482.svg)
 
-[Invite via Top.gg](https://top.gg/bot/628998441992978482)
+- [Invite via Top.gg](https://top.gg/bot/628998441992978482)
 
-[Website](itarax.com)
+- [Website](itarax.com)
 
 ![Shields](https://img.shields.io/badge/itara-pixel_mania-pink)
 
