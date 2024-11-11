@@ -16,10 +16,8 @@ iTara is live to the discord community!
 ![Shields](https://img.shields.io/badge/made_with-javascript-yellow?logo=javascript)
 
 [![discord.js](https://img.shields.io/npm/v/discord.js)](https://www.npmjs.com/package/discord.js)
-## Updates - 09/11/2024
-V1.1.0
-
-Planned maintenance from 09/11/2024 to 09/11/2024 to implement fixes and commands.
+## Scheduled Maintenances
+Planned maintenance from 11/13/2024 to 11/13/2024 Time TBC
 
 ## Support & Beta Testing
 ### Support Server
