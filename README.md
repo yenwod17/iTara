@@ -1,3 +1,4 @@
+#### Repo to be tidied up a little, soon (hopefully)
 # iTara
 Ready to have fun with a pixelated beach maniac?
 
@@ -17,7 +18,7 @@ iTara is live to the discord community!
 
 [![discord.js](https://img.shields.io/npm/v/discord.js)](https://www.npmjs.com/package/discord.js)
 ## Scheduled Maintenances
-Planned maintenance from 11/13/2024 to 11/13/2024 Time TBC
+Planned maintenance from ?
 
 ## Support & Beta Testing
 ### Support Server
