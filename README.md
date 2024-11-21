@@ -17,7 +17,8 @@ Ready to have fun with a pixelated beach maniac?
 
 -------------------------
 ## Scheduled Maintenances
-Planned maintenance from ?
+Planned maintenance from 11/23/24 to 11/23/24
+Time to be confirmed.
 
 -------------------------
 
